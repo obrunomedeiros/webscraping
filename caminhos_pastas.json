@@ -1,0 +1,13 @@
+{
+    "path_scraping" : "",
+    "json_path" : "", 
+    "cred_path" : "",
+    "geral_path" : "",
+    "catalog_path" : "",
+    "var_path" : "",
+    "dimensao_path" : "",
+    "trata_manual_path" : "",
+    "base_tratafa_path" : "",
+    "bkp_parquet_path" : "",
+    "bkp_raw_path" : ""
+}
